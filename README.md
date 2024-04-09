@@ -16,3 +16,8 @@ This repository contains the code for a restaurant recommendation system develop
 In addition to the model development, we have also created an API to integrate the recommendation system into our own website. The API allows users to receive personalized restaurant recommendations based on their preferences and interactions. The web app interacts with the API to fetch recommendations and display them to the users in a user-friendly interface.
 
 For detailed instructions on running the code and deploying the recommendation system, please refer to the documentation provided within each notebook and the API documentation. Feel free to explore and modify the code to adapt the recommendation system to specific requirements or datasets. We hope this repository serves as a useful resource for building and deploying restaurant recommendation systems.
+
+### Contributors
+- [Vishwa Pujara](https://github.com/Vishwapujara)
+- [Khush Patel](https://github.com/khushpatel2121)
+- [Sujay Shah](https://github.com/sujayshah3011)
