@@ -26,3 +26,5 @@ For detailed instructions on running the code and deploying the recommendation s
 
 ![Alt Text](VIDEO-2024-03-18-16-01-02-ezgif.com-video-to-gif-converter.gif)
 
+- Link to the [WebApp](https://65fbb93c7cd11a77ecc5b4d5--wonderful-meerkat-d8e461.netlify.app/) (it might take a minute to start the server)
+
