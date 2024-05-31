@@ -21,3 +21,8 @@ For detailed instructions on running the code and deploying the recommendation s
 - [Vishwa Pujara](https://github.com/Vishwapujara)
 - [Khush Patel](https://github.com/khushpatel2121)
 - [Sujay Shah](https://github.com/sujayshah3011)
+
+- # WebApp Preview 
+
+![Alt Text](VIDEO-2024-03-18-16-01-02-ezgif.com-video-to-gif-converter.gif)
+
